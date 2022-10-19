@@ -49,7 +49,12 @@ export default function Home() {
                 2017 - Present
               </h1>
               <h1 className="mt-8  font-Inspiration text-justify">
-                Movies.cf It's something..
+                From which we spring invent the universe corpus callosum the
+                only home weve ever known decipherment dispassionate
+                extraterrestrial observer. Venture vanquish the impossible
+                vastness is bearable only through love not a sunrise but a
+                galaxyrise the carbon in our apple pies extraordinary claims
+                require extraordinary evidence.
               </h1>
               <h1 className="mt-8   font-Inspiration">
                 View <span className="font-Hepta">→</span>
