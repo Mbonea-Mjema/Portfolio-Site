@@ -5,10 +5,6 @@ module.exports = {
       // all pages/static files before we attempt proxying
       {
         source: '/:path*',
-        destination: '/:path*',
-      },
-      {
-        source: '/:path*',
         destination: `https://plugins.wese.co.tz/tg/:path*`,
       },
     ];
